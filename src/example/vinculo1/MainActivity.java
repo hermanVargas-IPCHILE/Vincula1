@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-
+// otro cambio
 	public void ir(View view){
 		
 		Intent i = new Intent(this,vinculo2java.class);
