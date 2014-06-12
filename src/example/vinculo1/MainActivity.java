@@ -8,7 +8,8 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-// agrego un comentario de prueba
+
+//otro
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
